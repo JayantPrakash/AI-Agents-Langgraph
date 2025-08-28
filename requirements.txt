@@ -6,3 +6,7 @@ tavily-python
 dotenv
 langgraph
 langchain_groq
+bs4
+Chroma
+chromadb
+faiss-cpu
